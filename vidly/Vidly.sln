@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vidly", "Vidly\Vidly.csproj", "{295707EF-F8B0-4480-8538-B47844A263B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMW", "..\bmw\BMW\BMW\BMW.csproj", "{66EEF45D-98EA-4724-B952-32BDFAF31604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Testing|Any CPU = Testing|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{295707EF-F8B0-4480-8538-B47844A263B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295707EF-F8B0-4480-8538-B47844A263B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295707EF-F8B0-4480-8538-B47844A263B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295707EF-F8B0-4480-8538-B47844A263B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{295707EF-F8B0-4480-8538-B47844A263B4}.Testing|Any CPU.ActiveCfg = Testing|Any CPU
+		{295707EF-F8B0-4480-8538-B47844A263B4}.Testing|Any CPU.Build.0 = Testing|Any CPU
+		{66EEF45D-98EA-4724-B952-32BDFAF31604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EEF45D-98EA-4724-B952-32BDFAF31604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EEF45D-98EA-4724-B952-32BDFAF31604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EEF45D-98EA-4724-B952-32BDFAF31604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66EEF45D-98EA-4724-B952-32BDFAF31604}.Testing|Any CPU.ActiveCfg = Release|Any CPU
+		{66EEF45D-98EA-4724-B952-32BDFAF31604}.Testing|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACCFB38E-6C15-4D47-B715-E1B4434132B9}
+	EndGlobalSection
+EndGlobal
